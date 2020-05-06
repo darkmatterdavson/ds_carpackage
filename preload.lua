@@ -1,8 +1,8 @@
 local isVehiclesLoaded =  false
 
 local vehicles = {
-    p1,
-    mgt,
+    pokus1,
+    pokus2,
 }
 
 Citizen.CreateThread(function()
