@@ -4,7 +4,7 @@ Read readme for complete functionality.
 This solution has many advantages. You can easily edit cars without having to edit marged cars into a single file.
 And it contains a preloader to download the car before connecting to the server.
 
-Packege contain as example p1 car. You can delete this car.
+Package contain as example p1 car. You can delete this car.
 
 Installation Instructions:
 --------------------------
